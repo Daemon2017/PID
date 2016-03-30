@@ -1,0 +1,45 @@
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\bin\Release\PID.exe.config
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\bin\Release\PID.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\bin\Release\PID.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\obj\Release\PID.Form1.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\obj\Release\PID.Properties.Resources.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\obj\Release\PID.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\obj\Release\PID.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2013\Projects\PID\PID\obj\Release\PID.pdb
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\bin\Release\PID.exe.config
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.exe
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.pdb
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\bin\Release\PID.exe
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\bin\Release\PID.pdb
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.Form1.resources
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.Properties.Resources.resources
+C:\Users\Dmitriy\Downloads\Для МПТ\PID\PID\obj\Release\PID.csproj.GenerateResource.Cache
+D:\Для МПТ\PID\PID\bin\Release\PID.exe.config
+D:\Для МПТ\PID\PID\obj\Release\PID.exe
+D:\Для МПТ\PID\PID\obj\Release\PID.pdb
+D:\Для МПТ\PID\PID\bin\Release\PID.exe
+D:\Для МПТ\PID\PID\bin\Release\PID.pdb
+D:\Для МПТ\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+D:\Для МПТ\PID\PID\obj\Release\PID.Form1.resources
+D:\Для МПТ\PID\PID\obj\Release\PID.Properties.Resources.resources
+D:\Для МПТ\PID\PID\obj\Release\PID.csproj.GenerateResource.Cache
+C:\Users\Kirill\Downloads\PID\PID\bin\Release\PID.exe.config
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.exe
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.pdb
+C:\Users\Kirill\Downloads\PID\PID\bin\Release\PID.exe
+C:\Users\Kirill\Downloads\PID\PID\bin\Release\PID.pdb
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.Form1.resources
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.Properties.Resources.resources
+C:\Users\Kirill\Downloads\PID\PID\obj\Release\PID.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Release\PID.exe.config
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.exe
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.pdb
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Release\PID.exe
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Release\PID.pdb
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.Form1.resources
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Release\PID.csproj.GenerateResource.Cache

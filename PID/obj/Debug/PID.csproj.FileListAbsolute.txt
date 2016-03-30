@@ -1,0 +1,18 @@
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\bin\Debug\PID.exe.config
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\bin\Debug\PID.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\bin\Debug\PID.pdb
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.Form1.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.Properties.Resources.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.csproj.GenerateResource.Cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\PID\PID\obj\Debug\PID.pdb
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Debug\PID.exe.config
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.exe
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.pdb
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Debug\PID.exe
+C:\Users\Daemon\Documents\GitHub\PID\PID\bin\Debug\PID.pdb
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.Form1.resources
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\PID\PID\obj\Debug\PID.csproj.GenerateResource.Cache
